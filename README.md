@@ -71,12 +71,3 @@ The model can be run on both live and recorded video feeds. Modify the input sou
 - Incorporate temporal analysis for better tracking.
 - Develop a mobile application for enhanced user accessibility.
 
-## Contributors
-- **S Raga Divya** (21211A05T2)
-- **U Kavya Sree** (21211A05W3)
-- **T Kiriti** (21211A05V8)
-- **Y Sarthik** (21215A05Z1)
-
----
-
-This README gives a structured introduction to your ALPR project, highlights its features, and provides setup instructions for potential users. Adjust sections like `Usage`, `Future Enhancements`, and `Contributors` based on additional project details or specific requirements.
